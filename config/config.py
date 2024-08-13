@@ -1,0 +1,3 @@
+SECRET_KEY = "practicandobackend"
+ALGORITHM = "HS256"
+ACCESS_TOKE_EXPIRE_MINUTES = 30
